@@ -5,3 +5,4 @@ Deep learning has proven to show superior performance in certain domains such as
 # Reference
 
 - [Deep Learning for Predictive Maintenance](https://github.com/Azure/lstms_for_predictive_maintenance)
+- [How to Save and Load Your Keras Deep Learning Model](https://machinelearningmastery.com/save-load-keras-deep-learning-models/)
